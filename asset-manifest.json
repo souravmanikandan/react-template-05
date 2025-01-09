@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-template-05/static/css/main.bb806f62.css",
-    "main.js": "/react-template-05/static/js/main.00cbf867.js",
+    "main.js": "/react-template-05/static/js/main.6dee3f36.js",
     "static/js/787.604f9015.chunk.js": "/react-template-05/static/js/787.604f9015.chunk.js",
     "static/media/materialdesignicons-webfont.eot": "/react-template-05/static/media/materialdesignicons-webfont.4a8138d1cb5d6b81b4ce.eot",
     "static/media/materialdesignicons-webfont.ttf?v=7.2.96": "/react-template-05/static/media/materialdesignicons-webfont.06045137a6bebf225b52.ttf",
@@ -36,11 +36,11 @@
     "static/media/lenovo.svg": "/react-template-05/static/media/lenovo.60fa5b6b35ae30991e8a9c129a835832.svg",
     "index.html": "/react-template-05/index.html",
     "main.bb806f62.css.map": "/react-template-05/static/css/main.bb806f62.css.map",
-    "main.00cbf867.js.map": "/react-template-05/static/js/main.00cbf867.js.map",
+    "main.6dee3f36.js.map": "/react-template-05/static/js/main.6dee3f36.js.map",
     "787.604f9015.chunk.js.map": "/react-template-05/static/js/787.604f9015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb806f62.css",
-    "static/js/main.00cbf867.js"
+    "static/js/main.6dee3f36.js"
   ]
 }
